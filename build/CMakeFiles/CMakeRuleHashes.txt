@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+524db48199c1dabd6ebc6c26434bbead /home/emmanuel-torres/Documents/cursera/linux_embed/assignment-1-etorresr/assignment-autotest/test/assignment1/Test_hello_Runner.c
